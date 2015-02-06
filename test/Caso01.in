@@ -1,0 +1,18 @@
+6
+-1
+-1
+3 -1
+4 -1
+2 -1
+-1
+Musica 5 -1 -1
+Filosofia 2 -1 -1
+Arte 5 Filosofia 1 -1 -1
+Arte 3 Filosofia 1 -1 -1
+Filosofia 1 -1 -1
+Peliculas 6 -1 -1
+identificarColecciones 2 Arte Filosofia
+identificarColecciones 3 Arte Filosofia Musica
+identificarColecciones 3 Arte Filosofia Peliculas
+identificarColecciones 4 Arte Musica Peliculas Filosofia
+salir

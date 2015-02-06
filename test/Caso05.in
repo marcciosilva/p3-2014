@@ -1,0 +1,27 @@
+12
+1 6 -1
+2 -1
+0 -1
+4 5 -1
+3 5 6 -1
+3 4 -1
+7 -1
+6 8 -1
+10 -1
+10 -1
+9 11 -1
+8 -1
+calculo 50 gal 20 logica 3 pye 6 -1 -1
+calculo 75 gal 10 logica 3 pye 3 -1 -1
+gal 15 logica 4 pye 11 -1 -1
+calculo 27 gal 3 fisica 1 -1 -1
+calculo 37 fisica 7 gal 4 -1 -1
+calculo 6 discreta 40 gal 3 fisica 2 -1 -1
+calculo 50 logica 50 discreta 6 gal 5 -1 -1
+logica 20 discreta 4 gal 15 -1 -1
+pye 65 discreta 40 fisica 30 logica 4 calculo 13 -1 -1
+discreta 10 logica 3 calculo 5 -1 -1
+pye 100 discreta 50 fisica 100 logica 1 calculo 1 -1 -1
+discreta 10 fisica 50 logica 2 calculo 1 -1 -1
+identificarColecciones 6 logica discreta calculo gal fisica pye
+salir

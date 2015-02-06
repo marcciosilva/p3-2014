@@ -1,0 +1,8 @@
+*.sublime*
+*.pdf
+*.diff
+*.sal
+Principal
+Principal.exe
+*.o
+*.gch

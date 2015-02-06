@@ -1,0 +1,13 @@
+5
+1 -1
+2 -1
+0 3 -1
+4 -1
+-1
+Filosofia 8 Arte 10 Ciencia 9 -1 -1
+Filosofia 4 Ciencia 25 Arte 3 -1 -1
+Arte 4 Ciencia 5 -1 -1
+Arte 30 Ciencia 25 -1 -1
+Ciencia 12 Musica 40 -1 -1
+identificarColecciones 3 Filosofia Arte Ciencia
+salir

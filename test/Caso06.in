@@ -1,0 +1,83 @@
+40
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+-1
+Agronomia 16 Cultura 17 Pesca 15 Ganaderia 18 Mineria 20 -1 -1
+Agronomia 17 Cultura 18 Pesca 14 Ganaderia 17 Mineria 19 -1 -1
+Agronomia 18 Cultura 19 Pesca 13 Ganaderia 11 Mineria 18 -1 -1
+Agronomia 19 Cultura 20 Pesca 12 Ganaderia 16 Mineria 17 -1 -1
+Agronomia 20 Cultura 11 Pesca 11 Ganaderia 15 Mineria 16 -1 -1
+Agronomia 21 Cultura 22 Pesca 30 Ganaderia 24 Mineria 21 -1 -1
+Agronomia 22 Cultura 23 Pesca 29 Ganaderia 23 Mineria 23 -1 -1
+Agronomia 23 Cultura 24 Pesca 28 Ganaderia 22 Mineria 22 -1 -1
+Agronomia 24 Cultura 25 Pesca 27 Ganaderia 30 Mineria 24 -1 -1
+Agronomia 25 Cultura 26 Pesca 26 Ganaderia 29 Mineria 25 -1 -1
+Agronomia 26 Cultura 27 Pesca 25 Ganaderia 28 Mineria 30 -1 -1
+Agronomia 27 Cultura 28 Pesca 24 Ganaderia 27 Mineria 29 -1 -1
+Agronomia 28 Cultura 29 Pesca 23 Ganaderia 21 Mineria 28 -1 -1
+Agronomia 29 Cultura 30 Pesca 22 Ganaderia 26 Mineria 27 -1 -1
+Agronomia 30 Cultura 21 Pesca 21 Ganaderia 25 Mineria 26 -1 -1
+Agronomia 31 Cultura 32 Pesca 40 Ganaderia 34 Mineria 31 -1 -1
+Agronomia 32 Cultura 33 Pesca 39 Ganaderia 33 Mineria 33 -1 -1
+Agronomia 33 Cultura 34 Pesca 38 Ganaderia 32 Mineria 32 -1 -1
+Agronomia 34 Cultura 35 Pesca 37 Ganaderia 40 Mineria 34 -1 -1
+Agronomia 35 Cultura 36 Pesca 36 Ganaderia 39 Mineria 35 -1 -1
+Agronomia 36 Cultura 37 Pesca 35 Ganaderia 38 Mineria 40 -1 -1
+Agronomia 37 Cultura 38 Pesca 34 Ganaderia 37 Mineria 39 -1 -1
+Agronomia 38 Cultura 39 Pesca 33 Ganaderia 31 Mineria 38 -1 -1
+Agronomia 39 Cultura 40 Pesca 32 Ganaderia 36 Mineria 37 -1 -1
+Agronomia 40 Cultura 31 Pesca 31 Ganaderia 35 Mineria 36 -1 -1
+Agronomia 41 Cultura 42 Pesca 50 Ganaderia 44 Mineria 41 -1 -1
+Agronomia 42 Cultura 43 Pesca 49 Ganaderia 43 Mineria 43 -1 -1
+Agronomia 43 Cultura 44 Pesca 48 Ganaderia 42 Mineria 42 -1 -1
+Agronomia 44 Cultura 45 Pesca 47 Ganaderia 50 Mineria 44 -1 -1
+Agronomia 45 Cultura 46 Pesca 46 Ganaderia 49 Mineria 45 -1 -1
+Agronomia 46 Cultura 47 Pesca 45 Ganaderia 48 Mineria 50 -1 -1
+Agronomia 47 Cultura 48 Pesca 44 Ganaderia 47 Mineria 49 -1 -1
+Agronomia 48 Cultura 49 Pesca 43 Ganaderia 41 Mineria 48 -1 -1
+Agronomia 49 Cultura 50 Pesca 42 Ganaderia 46 Mineria 47 -1 -1
+Agronomia 50 Cultura 41 Pesca 41 Ganaderia 45 Mineria 46 -1 -1
+Agronomia 51 Cultura 52 Pesca 60 Ganaderia 54 Mineria 51 -1 -1
+Agronomia 52 Cultura 53 Pesca 59 Ganaderia 53 Mineria 53 -1 -1
+Agronomia 53 Cultura 54 Pesca 58 Ganaderia 52 Mineria 52 -1 -1
+Agronomia 54 Cultura 55 Pesca 57 Ganaderia 60 Mineria 54 -1 -1
+Agronomia 55 Cultura 56 Pesca 56 Ganaderia 59 Mineria 55 -1 -1
+identificarColecciones 5 Agronomia Cultura Pesca Ganaderia Mineria
+salir
